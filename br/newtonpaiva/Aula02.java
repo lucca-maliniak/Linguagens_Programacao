@@ -130,9 +130,9 @@ public class Aula02 {
             System.out.println(d + " is a factor of " + n);
         }
         System.out.println("Passou\n");
-        if (d != 0 & (n % d) == 0) {
-            System.out.println(d + " is a factor of " + n);
-        }
+//        if (d != 0 & (n % d) == 0) {
+//            System.out.println(d + " is a factor of " + n);
+//        }
         System.out.println("Não passou\n");
 
         asterisco();
